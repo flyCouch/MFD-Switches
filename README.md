@@ -24,8 +24,6 @@ I found this out by searching with terms like "cockpit display extraction + SIM 
 Glue about a 5mm foam to the back of the switches and then minimally silicone the foam to the screen.
 Use a cheap old monitor, or not.
 
-SVGs of outlines are provided for laser cutting the foam.
-
 You might want to use a socket for the Arduino to elevate it enough for the USB cable to fit.
 
 The hardware is identical for left and right but the firmware for each is different. There is a
