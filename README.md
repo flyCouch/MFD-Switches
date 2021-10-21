@@ -3,7 +3,7 @@ Use at your own risk.
 I am not accepting responsiblity for anything.
 Copyright Ron Lyttle 2021.
 
-https://github.com/flyCouch/MFD-Switches/blob/main/Pictures/MFDswitchPCB1.jpg
+![image](https://user-images.githubusercontent.com/92828067/138260561-ed4feac7-6325-425e-8fc1-c91866c62b64.png)
 
 I have to copyright because of some of the World's fools.
 But I don't have to charge you for use/distribution.
