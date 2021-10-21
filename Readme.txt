@@ -41,7 +41,8 @@ Resistors are 500ohm 1/8watt.
 Switches
 https://www.ebay.ca/itm/304100620636?hash=item46cdcf395c:g:RRcAAOSwJ~RZqQdk
 
-
+Edit: I just noticed the F-18 has a bottom, 3rd screen so I wrote a firmware for that. It is
+in the Arduino Pro Micro Firmwares folder.
 
 Have fun skyblasting stuff in Transistor Land and Skies.
 ron lyttle..
