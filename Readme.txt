@@ -29,7 +29,7 @@ The hardware is identical for left and right but the firmware for each is differ
 leftMFD.ino and a rightMFD.ino.
 
 Mounting Holes, 3.2mm-plated.
-From corners of screen, 6mm up/down left/right. 
+From corners of screen, 5mm up/down, 7mm left/right. 
 From bottom left vertice up 27mm and left 5mm.
 From bottom right vertice up 15mm and right 5mm.
 
@@ -43,6 +43,7 @@ https://www.ebay.ca/itm/304100620636?hash=item46cdcf395c:g:RRcAAOSwJ~RZqQdk
 
 Edit: I just noticed the F-18 has a bottom, 3rd screen so I wrote a firmware for that. It is
 in the Arduino Pro Micro Firmware folder.
+Next Edit: Fixed the mounting hole descriptions.
 
 Have fun skyblasting stuff in Transistor Land and Skies.
 ron lyttle..
