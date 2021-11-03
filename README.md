@@ -11,6 +11,17 @@ If you modify it, put it under your name then.
 
 How I extract displays in Falcon BMS 4.35.
 
+New Edit: Recently remembered you have to do this too.
+
+"You have to run the graphics in windowed mode of course (not BMS's fault, it's a Windows limitation I think) and you can set this option with the configuration tool or just add this line
+
+g_bUseExternalWindows 1
+
+... into Falcon BMS.cfg by yourself."
+
+I am refering to this web page here: 
+https://simhq.com/forum/ubbthreads.php/topics/3384641/Re:_BMS:_Multifunction_Display
+
 Edit the RTTClient.ini in Falcon BMS 4.35/Tools/RTTRemote/
 There are lots of comments that explain settings.
 You can use negative numbers for x/y if your display system requires it.
