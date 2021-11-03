@@ -50,7 +50,7 @@ From bottom right vertice up 15mm and right 5mm.
 Sparkfun ProMicro Arduino
 https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro
 
-Resistors are 500ohm 1/8watt.
+Resistors are 100ohm 1/8watt.
 
 Switches
 https://www.ebay.ca/itm/304100620636?hash=item46cdcf395c:g:RRcAAOSwJ~RZqQdk
