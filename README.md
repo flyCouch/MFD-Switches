@@ -47,7 +47,7 @@ From corners of screen, 5mm up/down, 7mm left/right.
 From bottom left vertice up 27mm and left 5mm.
 From bottom right vertice up 15mm and right 5mm.
 
-Sparkfun ProMicro Arduino:
+Sparkfun Pro Micro 5v Arduino:
 https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro
 
 Resistors are 100ohm 1/8watt.
