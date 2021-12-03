@@ -11,7 +11,9 @@ If you modify it, put it under your name then.
 
 How I extract displays in Falcon BMS 4.35.
 
-New Edit: Recently remembered you have to do this too.
+Edit: I have recently changed to MFD.exe for MFD extraction.
+
+Edit: Recently remembered you have to do this too.
 
 "You have to run the graphics in windowed mode of course (not BMS's fault, it's a Windows limitation I think) and you can set this option with the configuration tool or just add this line
 
@@ -37,10 +39,10 @@ I found this out by searching with terms like "cockpit display extraction + SIM 
 Glue about a 5mm foam to the back of the switches and then minimally silicone the foam to the screen.
 Use a cheap old monitor, or not.
 
-You might want to use a socket for the Arduino to elevate it enough for the USB cable to fit.
-
 The hardware is identical for left and right and bottom but the firmware for each is different. There is a
 leftMFD.ino and a rightMFD.ino and a bottomMFD.ino.
+
+And now there are FalconBMS specific firmwares for left and right.
 
 Mounting Holes, 3.2mm-plated.
 From corners of screen, 5mm up/down, 7mm left/right. 
