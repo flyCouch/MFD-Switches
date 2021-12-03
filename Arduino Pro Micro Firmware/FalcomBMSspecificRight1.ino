@@ -8,7 +8,7 @@
    
    Read the readme.txt for hints on how to set up screens.
    
-   This .ino is for the left MFD.
+   This .ino is for the right FalconBMS MFD.
    
 */
 
