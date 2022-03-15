@@ -60,7 +60,7 @@ https://www.ebay.ca/itm/304100620636?hash=item46cdcf395c:g:RRcAAOSwJ~RZqQdk
 Edit: Fixed the mounting hole descriptions.
 Another Edit: Fixed resistors value.
 
-P.S. I am calling this "FlexWare".
+P.S. I am calling this "Flex-Ware".
 I am flexing my skills for all to see.
 Presented for your enjoyment.
 
