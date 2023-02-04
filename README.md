@@ -65,5 +65,5 @@ I am flexing some skills for all who want to see.
 Presented for your enjoyment.
 
 
-Have fun skyblasting stuff in Transistor Land and Skies.
+Have fun skyblasting/skytravelling in Transistor Land and Skies.
 ron lyttle..
