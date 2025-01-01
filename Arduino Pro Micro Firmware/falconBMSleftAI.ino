@@ -9,7 +9,6 @@
    Read the readme.txt for hints on how to set up screens.
    
    This .ino is for the left FalconBMS MFD.
-   
 */
 
 #include <Keyboard.h>
