@@ -1,6 +1,6 @@
 /* Use at your own risk.
    I am not accepting responsibility for anything.
-   Copyright Ron Lyttle 2021.
+   Copyright Ron Lyttle 2025.
    
    I have to copyright because of some of the World's fools.
    But I don't have to charge you for use/distribution.
