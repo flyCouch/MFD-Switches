@@ -18,7 +18,7 @@ int banks[] = {8, 7, 9, 6};
 int positions[] = {18, 15, 14, 16, 10};
 unsigned long debounceTimes[4][5] = {0}; // 4 banks x 5 positions
 const int debounceDelay = 667;
-const int delayTime = 20;
+const int delayTime = 300;
 
 // Keymap: Each entry represents the keys for [bank][position]
 const int keyMap[4][5][3] = {
